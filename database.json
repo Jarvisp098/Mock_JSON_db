@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Biju",
+            "first_name": "Brijesh",
+            "email": "biju@yahoo.ca"
+        },
+        {
+            "id": 2,
+            "username": "Jarv",
+            "first_name": "Jarvis",
+            "email": "jarvis@aol.com"
+        }
+    ]
+
+}
